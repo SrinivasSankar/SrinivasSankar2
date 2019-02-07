@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><strong>Mac OS vs Windows 10 </strong></title>
+</head>
+<body>
+<div>
+    <h1><em>Which OS is the best?</em></h1>
+    <p>Both of these OS's have the pros and cons, because no OS is perfect.</p>
+</div>
+<div id="Mac OS: Pros">
+    <h2><b>Mac OS: Pros</b></h2>
+    <ul>
+        <li>Streamlined user interface without compromising functions.</li>
+        <li>Better and consistent operating system and hardware integration.</li>
+        <li>Lesser malware and other security issues or vulnerabilities.</li>
+        <li>Bundled with several free productivity applications.</li>
+        <li>Specialized and Incomparable mulititasking feature.</li>
+        <li>Intergrated with other Apple products such as IOS devices.</li>
+    </ul>
+</div>
+<div id="Mac OS: Cons">
+    <h2><b>Mac OS: Cons</b></h2>
+    <ul>
+        <li>iMac desktop computers and MacBook laptops are very expensive.</li>
+        <li>Limited options or flexibility for upgrading the hardware.</li>
+        <li>Scarcity of game titles and absence of advanced gaming experience.</li>
+        <li>Limited number of apps available in the App Store or other sources.</li>
+    </ul>
+</div>
+<div id="Windows 10: Pros">
+    <h2><b>Windows 10: Pros</b></h2>
+    <ul>
+        <li>Customizable Start experience.</li>
+        <li>Task View for managing applications using multiple desktops.</li>
+        <li>XBOX App for Streaming of live games to a PC or Tablet.</li>
+        <li>Touch optimized Office applications (Word, Excel, Outlook, OneNote and PowerPoint).</li>
+        <li>Music and playlist integration in OneDrive.</li>
+        <li>Unified messaging using Skype Integration.</li>
+    </ul>
+</div>
+<div id="Windows 10: Cons">
+    <h2>Windows 10: cons
+    <ul>
+        <li>Watching DVDs requires separate playback software.</li>
+        <li>Windows 7 desktop gadgets will be removed as part of installing Windows 10.</li>
+        <li>Solitaire, Minesweeper, and Hearts Games that come pre-installed on Windows 7 will be removed as part of installing the Windows 10 upgrade.</li>
+        <li>If you have a USB floppy drive, you will need to download the latest driver<br>from Windows Update or from the manufacturer's website.</li>
+    </ul>
+</div>
+</body>
+</html>
+    
+    
+        
+    
+    
+    
